@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 40285674356cb4e45a454f1178e82888
+guid: fd5e20e9dcb1c2b41b0aeefa8b0ab5d9
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -9,4 +9,3 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 818526489, guid: eda3be013924648929040646fbdc8fb3, type: 3}
   optimizeModel: 1
-  denormalWeightsRounding: 1
